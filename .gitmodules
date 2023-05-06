@@ -16,3 +16,6 @@
 [submodule "check-animals"]
 	path = check-animals
 	url = https://github.com/hendsaeedd/check-animals.git
+[submodule "kids-corner"]
+	path = kids-corner
+	url = https://github.com/hendsaeedd/kids-corner.git
