@@ -13,3 +13,6 @@
 [submodule "connect4"]
 	path = connect4
 	url = https://github.com/hendsaeedd/connect4.git
+[submodule "check-animals"]
+	path = check-animals
+	url = https://github.com/hendsaeedd/check-animals.git
