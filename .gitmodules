@@ -1,0 +1,15 @@
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/hendsaeedd/algorithms.git
+[submodule "fit-tracker"]
+	path = fit-tracker
+	url = https://github.com/hendsaeedd/fit-tracker.git
+[submodule "OS"]
+	path = OS
+	url = https://github.com/hendsaeedd/OS.git
+[submodule "PLD"]
+	path = PLD
+	url = https://github.com/hendsaeedd/PLD.git
+[submodule "connect4"]
+	path = connect4
+	url = https://github.com/hendsaeedd/connect4.git
