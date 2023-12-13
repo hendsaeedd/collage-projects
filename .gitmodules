@@ -19,3 +19,6 @@
 [submodule "kids-corner"]
 	path = kids-corner
 	url = https://github.com/hendsaeedd/kids-corner.git
+[submodule "NER"]
+	path = NER
+	url = https://github.com/hendsaeedd/NER.git
