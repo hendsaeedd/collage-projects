@@ -22,3 +22,6 @@
 [submodule "NER"]
 	path = NER
 	url = https://github.com/hendsaeedd/NER.git
+[submodule "JobMatch"]
+	path = JobMatch
+	url = https://github.com/hendsaeedd/JobMatch.git
