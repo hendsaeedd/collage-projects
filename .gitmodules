@@ -25,3 +25,6 @@
 [submodule "JobMatch"]
 	path = JobMatch
 	url = https://github.com/hendsaeedd/JobMatch.git
+[submodule "arabic2english"]
+	path = arabic2english
+	url = https://github.com/hendsaeedd/arabic2english.git
